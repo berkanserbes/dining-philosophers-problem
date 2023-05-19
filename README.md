@@ -9,8 +9,8 @@ Javayı [buradan](https://www.java.com/en/download/) indirebilirsiniz.
 
 Bu proje Java JDK 20 sürümüyle yazılmıştır. JDK 20'yi  [buradan](https://www.oracle.com/java/technologies/downloads/#jdk20-windows) indirebilirsiniz.
 
-* Terminal üzerinden istediğiniz bir dizine bu projeyi aşağıdaki komutla klonlayınız.
-> git clone https://github.com/berkanserbes/dining-philosophers-problem.git
+* Terminal üzerinden istediğiniz bir dizine bu projeyi aşağıdaki komutla klonlayınız. <br>
+`git clone https://github.com/berkanserbes/dining-philosophers-problem.git`
 * Projeyi IDE'nizde açıp çalıştırabilirsiniz.
 
 ### 2. Kurulum Yöntemi
